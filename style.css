@@ -96,7 +96,7 @@ img {
 ol li:before {
     content: counter(my-counter) ".";
     position: absolute;
-    left:630px;
+    left:850px;
   }
 
   ol li,ul li {
